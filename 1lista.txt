@@ -1,1 +1,33 @@
+Identificar
+
+-A internet lenta
+-Atrapalhando os alunos e professores durante a aula no laboratório
+
+Analisar
+
+-Com a internet lenta os alunos e o professor ficam sem rendimento prejudicando a aula
+-Encontrar a solução 
+-Colocar um plano melhor
+-Trocar a rede
+-Trocar o roteador
+-Cada aluno em alguma rede diferente
+-Se algum aluno não estiver usando para estudos desligar a net dele 
+-Usarem os dados móveis 
+-Usar cabos de rede 
+-Ver se algum computador está com algum virus ou problema interno que está sugando a internet dos outros 
+
+Implementar
+
+-Colocar um plano melhor
+-Trocar a rede
+-Cada aluno em alguma rede diferente
+-Usar cabos de rede 
+-Ver se algum computador está com algum virus ou problema interno que está sugando a internet dos outros 
+-Trocar roteadores
+
+Monitoria
+
+-Com a troca dos roteadores pode melhorar a conexão
+-Ver se algum computador está com algum virus ou problema interno que está sugando a internet dos outros poderá melhorar a qualidade
+-Cada aluno em alguma rede diferente(ajudava na minha escola)
 
